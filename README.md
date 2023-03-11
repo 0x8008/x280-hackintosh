@@ -1,7 +1,7 @@
 
-# Lenovo ThinkPad T480 - OpenCore Configuation
+# Lenovo ThinkPad X280 - OpenCore Configuation
 
-<img align="right" src="https://i.imgur.com/zbcphj3.jpg" alt="macOS Ventura running on the T480" width="350">
+<img align="right" src="https://i.imgur.com/zbcphj3.jpg" alt="macOS Ventura running on the X280" width="350">
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.5-blue)](https://github.com/acidanthera/OpenCorePkg)
